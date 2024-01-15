@@ -1,2 +1,2 @@
-# Rest-API
-REST API checkpoint 
+# API
+ API checkpoint 
